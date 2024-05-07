@@ -28,12 +28,16 @@ Order data is stored in the database for future reference and analytics purposes
 The e-commerce website project using JavaScript offers a comprehensive solution for online shopping, providing users with a seamless experience from browsing products to making secure payments. By leveraging modern web development technologies and best practices, the project aims to deliver a reliable and scalable platform for e-commerce businesses.
 
 project.html:
-C:\Users\Dell\Pictures\Screenshots\Screenshot (25).png
-C:\Users\Dell\Pictures\Screenshots\Screenshot (29).png
+![Screenshot (25)](https://github.com/Su64gi/e-commerce--website/assets/155756162/86cd5170-fffb-448e-a772-0dbc6490558a)
+
+![Screenshot (29)](https://github.com/Su64gi/e-commerce--website/assets/155756162/5f7f333c-0ad6-4de9-b5d8-be24c84e0070)
+
 collection.html:
-C:\Users\Dell\Pictures\Screenshots\Screenshot (30).png
+![Screenshot (30)](https://github.com/Su64gi/e-commerce--website/assets/155756162/74f670c7-f97e-49b7-8f5f-82860b2d3d7f)
+
 contact.html:
-C:\Users\Dell\Pictures\Screenshots\Screenshot (27).png
+![Screenshot (27)](https://github.com/Su64gi/e-commerce--website/assets/155756162/05baf2b5-367d-4498-94ec-09f8439f600c)
+
 
 
 
