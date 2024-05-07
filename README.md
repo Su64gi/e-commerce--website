@@ -26,6 +26,7 @@ Admin users have access to an admin dashboard to manage products, orders, and us
 Order data is stored in the database for future reference and analytics purposes.
 
 The e-commerce website project using JavaScript offers a comprehensive solution for online shopping, providing users with a seamless experience from browsing products to making secure payments. By leveraging modern web development technologies and best practices, the project aims to deliver a reliable and scalable platform for e-commerce businesses.
+
 project.html:
 C:\Users\Dell\Pictures\Screenshots\Screenshot (25).png
 C:\Users\Dell\Pictures\Screenshots\Screenshot (29).png
